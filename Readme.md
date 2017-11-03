@@ -1,6 +1,7 @@
 # Учебный проект «Барбершоп»
 
 * Студент: [Helen Naugolnyh](https://up.htmlacademy.ru/htmlcss/19/user/418741).
+<p> Наставник: Елена Забара </p>
 
 ---
 
